@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @PawlikPro
 - 👀 I’m interested in sports cars and aviation
 - 🌱 I’m currently learning Java and SQL
+- Contact: bednarzp08@gmail.com
